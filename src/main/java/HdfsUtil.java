@@ -96,6 +96,7 @@ public class HdfsUtil {
             System.out.println(name+(status.isDirectory()?" is dir":" is file"));
         }
     }
+
 }
 
 
